@@ -8,6 +8,7 @@
 1. COCO-Stuff: Thing and Stuff Classes in Context(uncountable)
 2. Microsoft COCO: Common Objects in Context
 3. The PASCAL Visual Object Classes (VOC) Challenge
+4. The ApolloScape Open Dataset for Autonomous Driving and its Application(2018.03)
 
 ### 2. Semantic segmentation
 1. ICNet for Real-Time Semantic Segmentation on High-Resolution Images(ECCV2018)
@@ -42,10 +43,18 @@
 3. DeepLab v3: Rethinking Atrous Convolution for Semantic Image Segmentation(2017.06)
 4. DeepLab V3+: [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation(2018.02)](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 
+---
+1. Fast Scene Understanding for Autonomous Driving(2017.08)
+
 ### 3. Instance segmentation
 1. Faster Training of Mask R-CNN by Focusing on Instance Boundaries(2018.09)
 2. Instance Segmentation by Deep Coloring(2018.07)
+2. Learning to Cluster for Proposal-Free Instance Segmentation(2018.03)
+2. Path Aggregation Network for Instance Segmentation(2018.03)
+2. MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features(2017.12)
 2. Learning to Segment Every Thing(2017.11)
+3. Semantic Instance Segmentation with a Discriminative Loss Function(2017.08)
+3. Pixelwise Instance Segmentation with a Dynamically Instantiated Network(2017.04)
 3. Mask R-CNN
 4. Fully Convolutional Instance-aware Semantic Segmentation(2016.11)
 5. Instance-aware Semantic Segmentation via Multi-task Network Cascades(2015.12)

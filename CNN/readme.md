@@ -17,6 +17,7 @@ Neural Networks
 
 ---
 1. An intriguing failing of convolutional neural networks and the CoordConv solution(2018.07)
+2. Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net(2018.07)
 2. SkipNet: Learning Dynamic Routing in Convolutional Networks(2017.11)
 3. Gradually Updated Neural Networks for Large-Scale Image Recognition(2017.11)
 4. NASNet: Learning Transferable Architectures for Scalable Image Recognition(Neural Architecture Search 2017.07)
