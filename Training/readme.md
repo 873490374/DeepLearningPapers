@@ -3,6 +3,7 @@
 ## 1. tricks
 1. ImageNet Training in Minutes(2017.09)
 2. Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour(2017)
+3. **Bag of Tricks for Image Classification with Convolutional Neural Networks(2018.12)**
 
 
 ## 2. Learning rate decay
